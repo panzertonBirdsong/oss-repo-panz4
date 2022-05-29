@@ -5,9 +5,9 @@
 
 ## 2. Reading Assignments
 
-Suggestion1:
+Suggestion1: Give clear conclusion at the front( like yes/no, number, etc..).
 
-Suggestion2:
+Suggestion2: List different supportive reasons seprately (like 1: .....; 2: .....). Make sure the logic is correct.
 
 This stroy reveals the advantages of open source software. The main character of the story, Jesse, a student enroled at RPI, managed to modify and improve a search engin that was built by someone else. Later Jesse was sued for the engine' copyright by RIAA. As a result of that, Jesse lost every money he had as compensation to RIAA. It is a little bit rediculous that a single artist could only earn about 50k dollars a year, while, on the contrary, the president of RIAA has a salary at about 1 million dollar. It would be a different story if that engin Jesse modified was an open source software. Since copyright is not a problem to be considered for open source software, search engin imporved by Jesse, as well as other source opend software developed by other people, can be used by the anyone, benefitting the society. This story also emphasizing that we should be careful to the copyright when using/modifying a certain software. Utilizing a non-open source software may lead to serious consequences.
 
