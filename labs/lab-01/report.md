@@ -45,4 +45,4 @@ while (notDone()) {
 
 ## 6. Reflection
 
-I have joint Shuttle Tracker Project for Spring semester
+The open source project I am interested in is Shuttle Tracker. For the past spring semester, I have worked in the server team. A problem we met was to confirm whether a "Board Bus" from any user is valid or not. My proposal was to ask users nearby to confirm this situation, just like waze. I believe this project plays an important role especially for those who live far away from campus (like blitman commons) and thus need to take a school shuttle to travel through the campus. In addition, from the participation in this project, I had the chance to get familiar with a new language -- swift.
