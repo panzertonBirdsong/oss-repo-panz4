@@ -17,4 +17,12 @@ https://github.com/panzertonBirdsong/OSS-lab2-part1
 https://github.com/panzertonBirdsong/Spoon-Knife
 
 ### 2.2
+
+## 3
+### 3.1
+https://github.com/panzertonBirdsong/PullReq
+
+### 3.2
 <img width="323" alt="Screen Shot 2022-06-04 at 22 32 18" src="https://user-images.githubusercontent.com/68172688/172032466-f06b06ea-9fb2-48d1-b5d6-f76ca47b8c9d.png">
+
+### 3.3
