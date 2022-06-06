@@ -17,6 +17,8 @@ https://github.com/panzertonBirdsong/OSS-lab2-part1
 https://github.com/panzertonBirdsong/Spoon-Knife
 
 ### 2.2
+<img width="1440" alt="Screen Shot 2022-06-06 at 12 13 25" src="https://user-images.githubusercontent.com/68172688/172201106-077a323c-bec1-4dd8-983a-f43876e4c4e5.png">
+
 
 ## 3
 ### 3.1
