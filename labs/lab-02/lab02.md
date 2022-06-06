@@ -29,3 +29,4 @@ https://github.com/panzertonBirdsong/PullReq
 <img width="399" alt="Screen Shot 2022-06-04 at 22 37 28" src="https://user-images.githubusercontent.com/68172688/172032595-6fe04f64-da2d-46b6-b1a0-0ba671cb82c7.png">
 
 ### 3.5
+https://github.com/jxlyn/OSSProjectIdeas/blob/master/Summer2022/ProjectIdeas4.md
