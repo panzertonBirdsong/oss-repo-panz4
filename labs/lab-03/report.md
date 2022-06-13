@@ -34,6 +34,13 @@ Last commit: May 18, 2022
 Current branches: Main; SecurityMeasure; analytics; datum-quality; newDatabase; direction; congestion; multiple-routes; proxy-routes-stops.
 
 ### 2.4
+Difference: total line was 4601 on github and was 4602 on gitstats.
+
+me:
+<img width="1245" alt="Screen Shot 2022-06-13 at 19 27 31" src="https://user-images.githubusercontent.com/68172688/173463851-d0ce5f92-f9d5-4e34-a946-10fd270f729a.png">
+
+
+<img width="1440" alt="Screen Shot 2022-06-13 at 19 43 01" src="https://user-images.githubusercontent.com/68172688/173465011-71034a77-bf8b-486c-b343-dacf91e88939.png">
 
 
 
