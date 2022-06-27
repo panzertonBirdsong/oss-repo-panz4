@@ -11,3 +11,12 @@ I would more agree with the second explaination -- Mind Share. Making web an ope
 
 ## Part6
 History: the precursors of Linux is a GNU project with a goal of creating a "complete Unix-compatible software system" composed entirely of free software. Goal: Linux is an open-source Unix-like operating system based on Linux kernel. Philosophy: "free" is one among three(other two: "freak", "x"). As GPL V2 License is a free software license, it meets the requirements of Linux by giving permmisions of free copy and distribution.
+
+## Part7
+https://github.com/jxlyn/lab4_part7_league_stat
+
+## Part8
+
+Website | License Prsent | License
+--- | --- | --- 
+[ShuttleTracker-Server](https://github.com/wtg/Shuttle-Tracker-Server) | Yes | GNU Affero General Public License v3.0 https://www.gnu.org/licenses/agpl-3.0.en.html
