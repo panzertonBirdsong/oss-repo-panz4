@@ -20,3 +20,7 @@ https://github.com/jxlyn/lab4_part7_league_stat
 Website | License Prsent | License
 --- | --- | --- 
 [ShuttleTracker-Server](https://github.com/wtg/Shuttle-Tracker-Server) | Yes | GNU Affero General Public License v3.0 https://www.gnu.org/licenses/agpl-3.0.en.html
+https://github.com/YACS-RCOS/yacs.n | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/rcos/Telescope | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/rcos/Venue2 | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/rpi-alpaca/alpaca | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
