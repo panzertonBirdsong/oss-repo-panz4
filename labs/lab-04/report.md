@@ -7,4 +7,7 @@ Licence defines the freedom a user have. It gives permissions to users whether t
 As a project that does not have an explicit licence, the freedom of using/modifying/(re)distributing this project is undefiened. Troubles including legal considerations may come after using this project. Once the freedom of a project is explicitly defined by a license, the developer of the project cannot revoke the license and thus the permissions cannot be revoked.
 
 ## Part5
+I would more agree with the second explaination -- Mind Share. Making web an open source project would lead to contributions from all over the world. Contributions from a whole community would significantly reduce the work load the original team had. In addition, users in community might have better understanding on the furture development of the project as users knew their needs.
 
+## Part6
+History: the precursors of Linux is a GNU project with a goal of creating a "complete Unix-compatible software system" composed entirely of free software. Goal: Linux is an open-source Unix-like operating system based on Linux kernel. Philosophy: "free" is one among three(other two: "freak", "x"). As GPL V2 License is a free software license, it meets the requirements of Linux by giving permmisions of free copy and distribution.
