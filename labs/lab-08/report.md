@@ -10,7 +10,7 @@
 
 1. Just click the numbers in Test section, either in Pass or Fail or Not Run.
 2. <img width="143" alt="Screen Shot 2022-07-18 at 18 46 13" src="https://user-images.githubusercontent.com/68172688/179629767-d5c9cc01-9b7e-4b57-ad29-75ecb21b0aa8.png"> Just click the Failed button under status, expected output and actual output will be shown. By comparing to outputs, we may find the bugs.
-3. For cmake-windows_vs2022_x64_ninja in master, it bascially passed most of the tests. Still, it has a failure due to timing out.
+3. For cmake-macos_arm64_xcode in master section, it bascially passed every test. So no error occurs.
 
 
 ### 2.3
