@@ -8,6 +8,9 @@
 ## check2
 ### 2.2
 
+1. Just click the numbers in Test section, either in Pass or Fail or Not Run.
+2. <img width="143" alt="Screen Shot 2022-07-18 at 18 46 13" src="https://user-images.githubusercontent.com/68172688/179629767-d5c9cc01-9b7e-4b57-ad29-75ecb21b0aa8.png"> Just click the Failed button under status, expected output and actual output will be shown. By comparing to outputs, we may find the bugs.
+3. 
 
 
 ### 2.3
@@ -27,3 +30,4 @@ Link: https://github.com/panzertonBirdsong/OSS-Lab08
 <img width="1555" alt="Screen Shot 2022-07-18 at 18 39 36" src="https://user-images.githubusercontent.com/68172688/179629160-e55fd1d2-bc95-49b8-bf5c-bfdcdb06e782.png">
 
 <img width="1061" alt="Screen Shot 2022-07-18 at 18 41 13" src="https://user-images.githubusercontent.com/68172688/179629251-9bafd871-6a2a-4653-9597-bb054a9f26cf.png">
+<img width="972" alt="Screen Shot 2022-07-18 at 18 51 52" src="https://user-images.githubusercontent.com/68172688/179630300-2312acff-665b-4918-ae83-691e0fca944f.png">
