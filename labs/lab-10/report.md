@@ -17,3 +17,19 @@
 <img width="1920" alt="Screen Shot 2022-07-31 at 00 50 30" src="https://user-images.githubusercontent.com/68172688/182010633-daf48c2d-f128-4d4f-b629-66648c1db541.png">
 
 ## check 03
+<img width="621" alt="Screen Shot 2022-07-31 at 15 26 57" src="https://user-images.githubusercontent.com/68172688/182042060-a9f78d7a-6178-45dc-b48e-9a58bbf9e00f.png">
+
+<img width="608" alt="Screen Shot 2022-07-31 at 15 31 32" src="https://user-images.githubusercontent.com/68172688/182042223-c826cc1f-9eb1-424a-b7bb-ff98fe0d28d3.png">
+
+<img width="606" alt="Screen Shot 2022-07-31 at 15 37 23" src="https://user-images.githubusercontent.com/68172688/182042385-f0267424-8558-4cce-aebb-e4440d547f93.png">
+
+<img width="616" alt="Screen Shot 2022-07-31 at 15 41 00" src="https://user-images.githubusercontent.com/68172688/182042482-fede1166-6579-43e1-a952-b00571c4aa17.png">
+
+<img width="614" alt="Screen Shot 2022-07-31 at 15 42 38" src="https://user-images.githubusercontent.com/68172688/182042532-d0612474-d553-4fc9-bd02-0a90c9207f45.png">
+
+<img width="615" alt="Screen Shot 2022-07-31 at 15 47 40" src="https://user-images.githubusercontent.com/68172688/182042679-8dc8edac-a9a8-4ef7-838c-23ad0971bbbc.png">
+
+
+
+
+
