@@ -41,4 +41,13 @@
 
 
 ## check 04
+<img width="601" alt="Screen Shot 2022-07-31 at 16 53 19" src="https://user-images.githubusercontent.com/68172688/182044968-ecb20a81-8155-4831-a35f-a71f1a18b962.png">
+
+<img width="608" alt="Screen Shot 2022-07-31 at 17 08 36" src="https://user-images.githubusercontent.com/68172688/182045403-5770b773-a734-4ef5-9854-fdc68c8b4e42.png">
+
+<img width="614" alt="Screen Shot 2022-07-31 at 17 10 02" src="https://user-images.githubusercontent.com/68172688/182045448-a1f7f3ac-13ff-448d-bfa3-fbb60c2629d8.png">
+
+<img width="614" alt="Screen Shot 2022-07-31 at 17 11 07" src="https://user-images.githubusercontent.com/68172688/182045487-c24e0460-fe38-4086-9a09-3a7cbce24905.png">
+
+<img width="613" alt="Screen Shot 2022-07-31 at 17 11 41" src="https://user-images.githubusercontent.com/68172688/182045500-c429ac65-9f81-4fe7-ad12-883d4d66cadc.png">
 
