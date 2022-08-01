@@ -1,5 +1,9 @@
 # lab 10
 
+## check 0
+
+https://github.com/panzertonBirdsong/oss-repo-panz4/wiki/Blog-03
+
 ## check point 01
 <img width="1920" alt="Screen Shot 2022-07-31 at 00 09 34" src="https://user-images.githubusercontent.com/68172688/182009647-0e44bbc5-3f75-4f6d-98f5-049afa0ab807.png">
 
